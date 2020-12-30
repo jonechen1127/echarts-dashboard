@@ -1,4 +1,4 @@
-# jianxi-driver
+# echarts-dashboard
 
 ## Project setup
 ```
